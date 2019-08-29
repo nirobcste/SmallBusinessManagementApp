@@ -1,0 +1,243 @@
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.added_customer.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.added_customer.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Add_product.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Category_name.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.File.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.added_customer.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Add_product.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Category_name.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.File.resources
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.added_customer.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Add_product.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Category_name.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.File.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.updatedataset.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Fileupload.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.201904141520414_cretae product view model.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.201904141526458_create view model.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.201904141603065_create view model delete notmapped.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.deleteviewmodel.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.delete_categoryDetails.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.add_db1.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.added_customer.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Add_product.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Category_name.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.File.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.updatedataset.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.Fileupload.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.createviewmodel.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.201904141520414_cretae product view model.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.201904141603065_create view model delete notmapped.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.deleteviewmodel.resources
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.addcategorymodelinproducts.resources
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.InitialCreate.resources
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations._001_First.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.InitialCreate.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations._001_First.resources
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.ProductFilesmodeladd.resources
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.ProductFilesmodeladd.resources
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.PurchaseAndPurchaseDetailAdd.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\SmallBusinessManagementApp.Models.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.Razor.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.Migrations.InitialMigration.resources
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp.DatabaseContext\obj\Debug\SmallBusinessManagementApp.DatabaseContext.csproj.GenerateResource.Cache

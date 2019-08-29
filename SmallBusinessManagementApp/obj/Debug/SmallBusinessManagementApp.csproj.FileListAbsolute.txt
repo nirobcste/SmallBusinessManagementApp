@@ -1,0 +1,270 @@
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Mimi\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+D:\update_friday\update_project_2\Project-2\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+E:\course related lecture\Basis-SIEP_Dotnet-01\Project-2\kamrul\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\Update_sunday\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+C:\Users\Web App Develop .Net\Desktop\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll.config
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.BLL.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Models.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\EntityFramework.SqlServer.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Razor.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Helpers.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\System.Web.Mvc.xml
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.Repository.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\bin\SmallBusinessManagementApp.DatabaseContext.pdb
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.csprojResolveAssemblyReference.cache
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.dll
+C:\Users\NIZAM UDDIN NIROB\Desktop\New folder (2)\SmallBusinessManagementApp\SmallBusinessManagementApp\obj\Debug\SmallBusinessManagementApp.pdb
